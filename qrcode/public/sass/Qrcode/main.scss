@@ -1,0 +1,12 @@
+@use 'header';
+@use 'menu';
+@use 'qrcode/mainQrcode';
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+    line-height: 1.4em;
+    margin: 0px;
+    padding: 0px;
+}

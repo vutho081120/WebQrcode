@@ -1,0 +1,25 @@
+.filter {
+    width: 100%;
+    height: auto;
+
+    .filterSelect {
+        padding-top: 16px;
+
+        label {
+            width: 300px;
+        }
+
+        .year_create {
+            width: 268px;
+        }
+
+        .made_in {
+            width: 268px;
+        }
+
+        .btn {
+            width: 268px;
+            margin-left: 16px;
+        }
+    }
+}

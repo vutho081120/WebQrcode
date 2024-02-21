@@ -1,0 +1,57 @@
+.footerFrame {
+    width: 100%;
+    height: 100%;
+
+    .footer {
+        width: 100%;
+        margin: 0 auto;
+        height: 100%;
+
+        .text-center {
+            background-color: #000;
+    
+            .d-flex {
+                background-color: #183153;
+    
+                .me-5 {
+                    span {
+                        color: white;
+                    }
+                }
+    
+                .icon {
+                    width: 150px;
+                    display: flex;
+                    justify-content: space-between;
+    
+                    a {
+                        text-decoration: none;
+    
+                        i {
+                            color: white;
+                        }
+                    }
+                }
+            }
+    
+            .links {
+                
+                .text-center {
+                    .row {
+                        a {
+                            text-decoration: none;
+                        }
+
+                        div {
+                            .mb-4 {
+                                width: 60px;
+                                background-color: #2e74ca;
+                                height: 2px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
